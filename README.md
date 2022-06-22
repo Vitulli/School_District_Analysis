@@ -15,7 +15,9 @@ PyCity School District Board members have tasked the Analytics Department to do 
     the district level as well.
    
     The data was then sorted along the following:
-    
+        
+      -District Summary
+          -One line summary.  
       -School Summary
           -Aggregated across grade level.  No filtering.
       -High and Low Performing Schools
@@ -31,6 +33,10 @@ PyCity School District Board members have tasked the Analytics Department to do 
 
 
 ## Summary Output Results
+
+District Summary
+
+![](Resources/District_Summary.png)
 
 School Summary
 
