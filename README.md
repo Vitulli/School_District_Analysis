@@ -36,30 +36,40 @@ School Summary
 
 ![](Resources/District_Summary.png)
 
+
 High and Low Performing Schools
 
 ![](Resources/High_Performing.png)
+
 
 Low Performing Schools
 
 ![](Resources/Low_Performing.png)
 
+
 Math Scores by Grade
 
 ![](Resources/Math_Score_byGrade.png)
+
 
 Reading Scores by Grade
 
 ![](Resources/Read_Score_byGrade.png)
 
+
 Score by School’s Spending
 
 ![](Resources/Scores_by_School_Spending.png)
+
 
 Scores by School Size
 
 ![](Resources/Scores_by_School_Size.png)
 
+
 Scores by School Type
 
 ![](Resources/Scores_by_School_Type.png)
+
+
+
