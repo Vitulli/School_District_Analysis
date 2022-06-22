@@ -28,3 +28,29 @@ PyCity School District Board members have tasked the Analytics Department to do 
           -Three bin sizes.
       -Scores by School Type
           -Two bins.
+
+
+## Summary Output Results
+
+School Summary
+
+![](analysis/Election_Analysis_Terminal_Output.png)
+
+
+          -Aggregated across grade level.  No filtering.
+      -High and Low Performing Schools
+          -Aggregated across grade level. Top 5 and Bottom 5 schools.
+      -Math and Reading Scores by Grade
+          -Sorted only by subject Math or Reading.
+      -Score by School’s Spending
+          -Four distinct per student spending bins.
+      -Scores by School Size
+          -Three bin sizes.
+      -Scores by School Type
+          -Two bins.
+
+
+
+
+
+
