@@ -34,23 +34,32 @@ PyCity School District Board members have tasked the Analytics Department to do 
 
 School Summary
 
-![](Resources/District_Summary)
+![](Resources/District_Summary.png)
 
+High and Low Performing Schools
 
-          -Aggregated across grade level.  No filtering.
-      -High and Low Performing Schools
-          -Aggregated across grade level. Top 5 and Bottom 5 schools.
-      -Math and Reading Scores by Grade
-          -Sorted only by subject Math or Reading.
-      -Score by School’s Spending
-          -Four distinct per student spending bins.
-      -Scores by School Size
-          -Three bin sizes.
-      -Scores by School Type
-          -Two bins.
+![](Resources/High_Performing.png)
 
+Low Performing Schools
 
+![](Resources/Low_Performing.png)
 
+Math Scores by Grade
 
+![](Resources/Math_Score_byGrade.png)
 
+Reading Scores by Grade
 
+![](Resources/Read_Score_byGrade.png)
+
+Score by School’s Spending
+
+![](Resources/Scores_by_School_Spending.png)
+
+Scores by School Size
+
+![](Resources/Scores_by_School_Size.png)
+
+Scores by School Type
+
+![](Resources/Scores_by_School_Type.png)
