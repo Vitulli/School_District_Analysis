@@ -72,4 +72,11 @@ Scores by School Type
 ![](Resources/Scores_by_School_Type.png)
 
 
+## Summary
+
+In review of the data there are some conclusion that can be immediately seen.  At an elementary level it can be seen that charter schools
+with smaller number of students pass more student in the areas of Math and Reading.  Once more they seem to be able to achieve this with an
+overall smaller budget in terms of per student spending.
+
+This analysis does not take anything else into account such as parent involment or other at home factors.
 
