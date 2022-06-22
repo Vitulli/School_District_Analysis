@@ -34,7 +34,7 @@ PyCity School District Board members have tasked the Analytics Department to do 
 
 School Summary
 
-![](analysis/Election_Analysis_Terminal_Output.png)
+![](Resources/District_Summary)
 
 
           -Aggregated across grade level.  No filtering.
