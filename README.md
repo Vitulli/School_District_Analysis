@@ -17,20 +17,28 @@ PyCity School District Board members have tasked the Analytics Department to do 
     The data was then sorted along the following:
         
       -District Summary
-          -One line summary.  
+          -One line summary. 
+          -Data could be off by as much as 1.2% overall for removal of THS 9th.
       -School Summary
           -Aggregated across grade level.  No filtering.
+          -Data could be off by as much as 28.1% overall for removal of THS 9th.
       -High and Low Performing Schools
           -Aggregated across grade level. Top 5 and Bottom 5 schools.
+          -THS 9th grade removal may affect highest ranking.  Further study would be required.
+          -THS 9th grade removal probably would not affect lowest ranking.  Further study would be required.
       -Math and Reading Scores by Grade
           -Sorted only by subject Math or Reading.
+          -THS 9th lack of averaging would only effect THS scores
       -Score by School’s Spending
           -Four distinct per student spending bins.
+          -Could effect number of schools passing / costs.
       -Scores by School Size
           -Three bin sizes.
+          -THS 9th data no effect.
       -Scores by School Type
           -Two bins.
-
+          -THS 9th data no effect.
+        
 
 ## Summary Output Results
 
