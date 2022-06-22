@@ -80,3 +80,8 @@ overall smaller budget in terms of per student spending.
 
 This analysis does not take anything else into account such as parent involment or other at home factors.
 
+Lastly, there are some concerns regarding the nullification of Thomas High School's 9th Grade Class.  Though unlikely this could lead to 
+and error as high as (461 / 1635 * 100) = 28.2% for the school's stats though it is more likely roughly in line with the failure rates of
+other large district schools.  This will also add a chance of error through the PyCity District of (461 / 39170 * 100) = 1.2% though,
+again, the number is likely smaller.
+
