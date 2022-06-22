@@ -38,6 +38,7 @@ District Summary
 
 ![](Resources/District_Summary.png)
 
+
 School Summary
 
 ![](Resources/School_Summary.png)
