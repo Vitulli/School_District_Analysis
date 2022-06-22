@@ -40,7 +40,7 @@ District Summary
 
 School Summary
 
-![](Resources/District_Summary.png)
+![](Resources/School_Summary.png)
 
 
 High and Low Performing Schools
